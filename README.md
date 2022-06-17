@@ -19,5 +19,8 @@ against face, comfort, and sizing. The 3D model is available upon request and in
 welcome collaboration with other institutions and suggest other facilities consider mask fit for their own population
 when exploring this concept.
 
-** How to cite:**
+See more here:
+https://www.preprints.org/manuscript/202003.0444/v1
+
+**How to cite:
 Provenzano, D.; Rao, Y.J.; Mitic, K.; Obaid, S.N.; Pierce, D.; Huckenpahler, J.; Berger, J.; Goyal, S.; Loew, M.H. Rapid Prototyping of Reusable 3D-Printed N95 Equivalent Respirators at the George Washington University. Preprints 2020, 2020030444 (doi: 10.20944/preprints202003.0444.v1). Provenzano, D.; Rao, Y.J.; Mitic, K.; Obaid, S.N.; Pierce, D.; Huckenpahler, J.; Berger, J.; Goyal, S.; Loew, M.H. Rapid Prototyping of Reusable 3D-Printed N95 Equivalent Respirators at the George Washington University. Preprints 2020, 2020030444 (doi: 10.20944/preprints202003.0444.v1). 
