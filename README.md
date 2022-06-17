@@ -3,7 +3,7 @@ This respository contains code and information pertaining to our project to deve
 
 This study was conducted at the beginning of the USA 2019 Novel Coronavirus (COVID-19) pandemic in March of 2020 to evaluate 3D printed N95 equivalent respirator options for use in healthcare shortage situations. 
 
-Our group selected a series of mask designs from publically available templates, tested out a variety of materials to see which would work best and be safest for practitioners in a healthcare setting, compared these to standard facial measures and testing measures to ensure proper sizing and sealant for fit, and then created prototypes to be used at local hospitals.
+Our group selected a series of mask designs from publically available templates, tested out a variety of materials to see which would work best and be safest for practitioners in a healthcare setting, compared these to standard facial measures and testing measures to ensure proper sizing and sealant for fit, and then created prototypes to be used at local hospitals. This effort was a collaboration between biomedical engineering, critical care, radiation oncology, and infectious disease departments at the George Washington University and lead to the production of a couple hundred 3D-printed respirators for emergency use if needed at the hospital.
 
 Abstract:
 The 2019 Novel Coronavirus (COVID-19) has caused an acute reduction in world supplies of personal protective
